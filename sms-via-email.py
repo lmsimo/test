@@ -5,7 +5,7 @@ import smtplib
 # Setup
 email = 'apikey' # your email
 pswd = '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' # your email password
-host = 'smtp.sendgrid.net # SMTP server of your email provider
+host = 'smtp.sendgrid.net' # SMTP server of your email provider
 port = '587' # SMTP port
 
 # Message and Recipient
